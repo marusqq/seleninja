@@ -1,1 +1,1 @@
-# seleninja
+# seleninja - scalable selenium automation w/ proxies for my personal use
